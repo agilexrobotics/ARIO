@@ -1,5 +1,5 @@
 # ARIO
-Project link: ario-data.github.io
+Project link: [ario-data.github.io](http://ario-data.github.io)
 
 Embodied AI is the current cutting-edge direction of intelligence science and is considered the only channel to achieve general AI. Developed countries led by the United States and many technology giants represented by OpenAI and Nvidia all regard embodied intelligence as an important strategic development and have begun their deployment with huge investment.
 
