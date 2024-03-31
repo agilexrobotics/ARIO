@@ -7,7 +7,7 @@ In recent years, robot technology has developed rapidly, profoundly affecting ou
 
 In the era of large models, Scaling Law is as important as Moore's Law. By increasing the amount of data and expanding the model scale, model performance can be continuously improved. In order to build a large basic model of embodied AI and build an application platform with large-scale effects for embodied AI, it’s urgent to create an open source large-scale and high-quality robot perception and operation data set.
 
-Just as Stanford University's ImageNet promotes computer vision research, as an important part of the country's strategic scientific and technological strength, we hope to rely on the "China Computing Network" and "Qizhi" open-source ecology to take the lead in creating an open-source dataset with the same influence in the field of embodied AI: OpenRobots.
+Just as Stanford University's ImageNet promotes computer vision research, as an important part of the country's strategic scientific and technological strength, we hope to rely on the "China Computing Network" and "Qizhi" open-source ecology to take the lead in creating an open-source dataset with the same influence in the field of embodied AI: **ARIO(All robots in one)**.
 
 At present, Google (US) has firstly released the Open X-Embodiment data sets and based on which an Embodied AI control basic model RT-X is trained. It shows good generalization performance across scenarios, multi-tasks, cross-platforms, etc. and generally exceeds previous skill levels based on specific scenarios and data sets.
 
